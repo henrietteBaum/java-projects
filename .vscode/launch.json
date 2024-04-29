@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HelloFX",
+            "request": "launch",
+            "mainClass": "zoomin/com.zoomin.HelloFX",
+            "projectName": "demofx1"
+        },
+        {
+            "type": "java",
+            "name": "HelloFX",
+            "request": "launch",
+            "mainClass": "com.zoomin.HelloFX",
+            "projectName": "demofx1"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "zoomin/zoomin.App",
+            "projectName": "mvn_2"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "zoomin.Main",
+            "projectName": "mvn_1"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -17,7 +45,6 @@
             "mainClass": "HelloFX",
             "projectName": "java-projects_8969a4dd",
             "vmArgs": "--module-path /home/henriette/FX_22/javafx-sdk-22.0.1/lib --add-modules javafx.controls"
-
         }
     ]
 }
