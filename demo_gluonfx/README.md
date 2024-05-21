@@ -189,5 +189,3 @@ Für den Aufruf all diesen Codes ist die statische `launch()`- Methode zuständi
 ```
 
 Fertig!
-
-![javafx window, logo and label](duke-fx.png)
